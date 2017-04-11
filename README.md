@@ -85,4 +85,5 @@ Compilation of resources found around the web connected with Machine Learning, D
 
 
 #### Credits
-Big thanks to all contributors to awesome lists (posted in other resources), which enabled me to find some of the courses!
+
+Big thanks to all contributors to awesome lists (posted in other resources), which enabled me to find some of the courses contained in the list.
