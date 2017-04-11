@@ -2,7 +2,7 @@
 Compilation of resources found around the web connected with Machine Learning, Deep Learning &amp; Data Science in general.
 
 
-## Academic Machine Learning:
+### Academic Machine Learning:
 
 * [Oxford Machine Learning, 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   Slides in .pdf, videos. Mathematical problem sets & practicals in Torch. By Nando de Freitas.
@@ -47,7 +47,7 @@ Compilation of resources found around the web connected with Machine Learning, D
   Readings & link to videos from Fall 2015 class.
 
 
-## Academic Deep Learning:
+### Academic Deep Learning:
 
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   Video lectures, notes, papers and coding assignments in python.
@@ -55,3 +55,30 @@ Compilation of resources found around the web connected with Machine Learning, D
   Video lectures, notes, papers and problem sets.
 * [Toronto CSC2523: Deep Learning in Computer Vision](http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html)
   A lot of papers & some code connected with DL in CV.
+* [Berkeley Stat212B: Topics Course on Deep Learning, Spring 2016](https://github.com/joanbruna/stat212b)
+  Lecture slides and a lot of papers to read.
+
+### Reinforcement Learning:
+
+* [UCL Course on RL, 2015](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+  Course on RL by David Silver. Video lectures and slides.
+* [Berkeley CS294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
+  Lecture videos, slides, papers and additional resources.
+  
+  
+## Various very useful other resources & courses lists:
+
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome courses - Machine Learning](https://github.com/prakhar1989/awesome-courses#machine-learning)
+* [Awesome courses - Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Natual Language Processing](https://github.com/keon/awesome-nlp)
+* [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
+* [Awesome Mxnet](https://github.com/dmlc/mxnet/blob/master/example/README.md)
+* [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
+* [Keras resources](https://github.com/fchollet/keras-resources/blob/master/README.md)
+* [Awesome math](https://github.com/rossant/awesome-math)
+* [All awesome lists](https://github.com/sindresorhus/awesome)
+* [Machine Learning Salon](http://www.machinelearningsalon.org/index.html) - compilation of resources by Jacqueline Isabelle Forien
+* [Reddit PhD-level ML courses](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
+
+* [fast.ai Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html)
