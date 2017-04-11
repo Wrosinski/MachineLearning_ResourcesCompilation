@@ -1,8 +1,8 @@
 # ML-DS-Resources-Compilation
 Compilation of resources found around the web connected with Machine Learning, Deep Learning &amp; Data Science in general.
 
-## Academic Machine Learning:
 
+## Academic Machine Learning:
 
 * [Oxford Machine Learning, 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   Slides in .pdf, videos. Mathematical problem sets & practicals in Torch.
@@ -25,4 +25,5 @@ Compilation of resources found around the web connected with Machine Learning, D
 * [CMU 10-702/36-702: Statistical Machine Learning, Spring 2016](http://www.stat.cmu.edu/~larry/=sml/)
   Lecture videos, notes and assignments by Larry Wasserman. Cource concentrated on theoretical foundations.
 * [Harvard CS281: Advanced Machine Learning, Fall 2013](http://www.seas.harvard.edu/courses/cs281/)
+  Compiled resources on topics contained in the course - videos, papers, notes and assignments.
   
