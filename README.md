@@ -1,4 +1,4 @@
-# ML-DS-Resources-Compilation
+# Machine Learning, Deep Learning resources compilation
 Compilation of resources found around the web connected with Machine Learning, Deep Learning &amp; Data Science in general.
 
 
@@ -82,3 +82,7 @@ Compilation of resources found around the web connected with Machine Learning, D
 * [Reddit PhD-level ML courses](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
 
 * [fast.ai Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html)
+
+
+#### Credits
+Big thanks to all contributors to awesome lists (posted in other resources), which enabled me to find some of the courses!
