@@ -66,23 +66,55 @@ Compilation of resources found around the web connected with Machine Learning, D
   Lecture videos, slides, papers and additional resources.
   
   
-## Various very useful other resources & courses lists:
+### Various very useful ML & theoretical resources:
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome courses - Machine Learning](https://github.com/prakhar1989/awesome-courses#machine-learning)
 * [Awesome courses - Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Natual Language Processing](https://github.com/keon/awesome-nlp)
+* [All awesome lists](https://github.com/sindresorhus/awesome)
+* [Machine Learning Salon](http://www.machinelearningsalon.org/index.html) - compilation of resources by Jacqueline Isabelle Forien
+* [Reddit PhD-level ML courses](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
+* [35 Free Online Books on Machine Learning](https://dzone.com/articles/35-free-online-books-machine)
+* [Geekbooks - a lot of free (older than 2016) and paid (3$/month, newer) great books on various IT topics](https://www.geekbooks.me/)
+
+## Mathematics: 
+
+* [Awesome math](https://github.com/rossant/awesome-math)
+* [Oxford Statistics](http://www.stats.ox.ac.uk/~reinert/)
+* [CMU 36-705 Intermediate Statistics by Larry Wasserman, advanced theoretical course](http://www.stat.cmu.edu/~larry/=stat705/)
+* [NYU DS-GA 1002: Statistical and Mathematical Methods](http://www.cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/index.html)
+* [Stanford EE364a Convex Optimization I, 2016-17. Videos (older), textbook & slides](http://stanford.edu/class/ee364a/)
+* [Harvard CS109 Data Science](http://cs109.github.io/2015/)
+* [MIT Introduction to Probability and Statistics, Spring 2014](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
+* [MIT Probabilistic Systems Analysis and Applied Probability, Fall 2010. Great course on probability - a slightly differnet version available](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) [on edX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+* [MIT Mathematics for Computer Science, Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
+* [Recommended Math books - various topics](https://mathblog.com/mathematics-books/)
+
+## Practical resources:
+
+### Deep Learning libraries-related:
+
 * [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 * [Awesome Mxnet](https://github.com/dmlc/mxnet/blob/master/example/README.md)
 * [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
 * [Keras resources](https://github.com/fchollet/keras-resources/blob/master/README.md)
-* [Awesome math](https://github.com/rossant/awesome-math)
-* [All awesome lists](https://github.com/sindresorhus/awesome)
-* [Machine Learning Salon](http://www.machinelearningsalon.org/index.html) - compilation of resources by Jacqueline Isabelle Forien
-* [Reddit PhD-level ML courses](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
+* [Nervana neon](https://github.com/NervanaSystems/neon)
 
+### Courses and tutorials:
+
+* [ML & DL Tutorials Compilation](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [Python Data Science tutorials](https://github.com/ujjwalkarn/DataSciencePython)
+* [Modern Pandas - 7 parts on pandas code](https://tomaugspurger.github.io/modern-1.html)
+
+* [Duke Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663/index.html)
 * [fast.ai Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html)
 
+### Other:
+
+* [28 Jupyter Notebook tips & tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [Supervised ML Cheathseet](https://github.com/rcompton/ml_cheat_sheet/blob/master/supervised_learning.ipynb)
+* [43 Google's Rules of Machine Learning](https://github.com/thundergolfer/google-rules-of-machine-learning)
 
 #### Credits
 
