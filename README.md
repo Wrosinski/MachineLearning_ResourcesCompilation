@@ -2,7 +2,7 @@
 Compilation of resources found around the web connected with Machine Learning, Deep Learning &amp; Data Science in general.
 
 
-### Academic Machine Learning:
+#### Academic Machine Learning:
 
 * [Oxford Machine Learning, 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   Slides in .pdf, videos. Mathematical problem sets & practicals in Torch. By Nando de Freitas.
@@ -47,7 +47,7 @@ Compilation of resources found around the web connected with Machine Learning, D
   Readings & link to videos from Fall 2015 class.
 
 
-### Academic Deep Learning:
+#### Academic Deep Learning:
 
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   Video lectures, notes, papers and coding assignments in python.
@@ -58,7 +58,7 @@ Compilation of resources found around the web connected with Machine Learning, D
 * [Berkeley Stat212B: Topics Course on Deep Learning, Spring 2016](https://github.com/joanbruna/stat212b)
   Lecture slides and a lot of papers to read.
 
-### Reinforcement Learning:
+#### Reinforcement Learning:
 
 * [UCL Course on RL, 2015](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
   Course on RL by David Silver. Video lectures and slides.
@@ -66,7 +66,7 @@ Compilation of resources found around the web connected with Machine Learning, D
   Lecture videos, slides, papers and additional resources.
   
   
-### Various very useful ML & theoretical resources:
+#### Various very useful ML & theoretical resources:
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome courses - Machine Learning](https://github.com/prakhar1989/awesome-courses#machine-learning)
@@ -91,9 +91,11 @@ Compilation of resources found around the web connected with Machine Learning, D
 * [MIT Mathematics for Computer Science, Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 * [Recommended Math books - various topics](https://mathblog.com/mathematics-books/)
 
+
+
 ## Practical resources:
 
-### Deep Learning libraries-related:
+#### Deep Learning libraries-related:
 
 * [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 * [Awesome Mxnet](https://github.com/dmlc/mxnet/blob/master/example/README.md)
@@ -101,7 +103,7 @@ Compilation of resources found around the web connected with Machine Learning, D
 * [Keras resources](https://github.com/fchollet/keras-resources/blob/master/README.md)
 * [Nervana neon](https://github.com/NervanaSystems/neon)
 
-### Courses and tutorials:
+#### Courses and tutorials:
 
 * [ML & DL Tutorials Compilation](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Python Data Science tutorials](https://github.com/ujjwalkarn/DataSciencePython)
@@ -110,11 +112,15 @@ Compilation of resources found around the web connected with Machine Learning, D
 * [Duke Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663/index.html)
 * [fast.ai Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html)
 
-### Other:
+#### Other:
 
 * [28 Jupyter Notebook tips & tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Supervised ML Cheathseet](https://github.com/rcompton/ml_cheat_sheet/blob/master/supervised_learning.ipynb)
 * [43 Google's Rules of Machine Learning](https://github.com/thundergolfer/google-rules-of-machine-learning)
+
+
+
+
 
 #### Credits
 
