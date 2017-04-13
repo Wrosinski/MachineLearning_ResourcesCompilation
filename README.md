@@ -108,7 +108,6 @@ Compilation of resources found around the web connected with Machine Learning, D
 * [ML & DL Tutorials Compilation](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Python Data Science tutorials](https://github.com/ujjwalkarn/DataSciencePython)
 * [Modern Pandas - 7 parts on pandas code](https://tomaugspurger.github.io/modern-1.html)
-
 * [Duke Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663/index.html)
 * [fast.ai Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html)
 
